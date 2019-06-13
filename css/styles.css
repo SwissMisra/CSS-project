@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+  margin: auto;
+  background-color: #f2f4d1
+}
+h1{
+  text-align: center;
+  width: 50%;
+  margin: 100px auto 0;
+  color: #5e6073
+}
+p{
+  color: #5e6073
+}
+.introduction{
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+.top-cloud{
+  position: absolute;
+  right: 10%;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 10%;
+  top: 200px;
+}
+.mountain{
+  opacity: .3;
+}
